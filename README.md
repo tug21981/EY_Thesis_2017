@@ -3,10 +3,13 @@ Determining the ability of terrestrial time-lapse microgravity surveying on a gl
 
 ## Authors
 ### Atsuhiro Muto
+Functions for use within the main code:
 * g3dplouff.m
 * leastsq_plane.m
 
 ### Emma Young
+Codes should be run in this order:
+
 * USGS_calibrate.m
 * basicmodel_ey170322.m
 * g10km_170317.m
