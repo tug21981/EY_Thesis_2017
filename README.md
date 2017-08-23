@@ -3,14 +3,14 @@ Determining the ability of terrestrial time-lapse microgravity surveying on a gl
 
 ## Authors
 ### Atsuhiro Muto
-* g3dplouff
-* leastsq_plane
+* g3dplouff.m
+* leastsq_plane.m
 
 ### Emma Young
-* USGS_calibrate
-* basicmodel_ey170322
-* g10km_170317
-* g50km_170317
-* g100km_170317
-* g200km_170317
-* vgg_170317
+* USGS_calibrate.m
+* basicmodel_ey170322.m
+* g10km_170317.m
+* g50km_170317.m
+* g100km_170317.m
+* g200km_170317.m
+* vgg_170317.m
